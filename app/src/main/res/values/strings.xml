@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TwoMetics</string>
+    <string name="app_description">Simple calculator to perform basic arithmetic operations on two numbers</string>
+    <string name="powered_by_brainy_space">Powered by: Brain-y Space</string>
+    <string name="brand_image">brand image</string>
+    <string name="answer">%1$s %2$s</string>
+    <string name="brain_y">brain-y</string>
+</resources>
